@@ -34,6 +34,14 @@ h3 {
     font-size: 32px;
     padding-left: 18px;
 }
+
+.insta{
+    font-weight: bolder;
+    margin-bottom: 15px;
+    font-family:'Lato';
+    font-size: 25px;
+    padding-left: 85px;
+}
 p{
     color:#272727;
     margin-bottom: 15px;
@@ -56,7 +64,12 @@ p{
     padding: 15px 30px;
     color: white;
     border:none;
+    
+}
 
+a {
+    text-decoration: none;
+    color: white;
 }
 
 .btn_02{
@@ -97,4 +110,17 @@ p{
     margin-left:40%;
 }
  
- 
+ .photos{
+    width:1300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 200px;
+
+ }
+
+ img{
+    height:300px;
+    width: 310px;
+    padding: 1055x;
+ }
