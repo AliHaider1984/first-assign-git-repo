@@ -1,0 +1,43 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.banner_pic {
+    width: 300px;
+}
+
+h1{
+    font-weight: bolder;
+    margin-bottom: 15px;
+    font-family:'Lato';
+    
+    
+   
+    
+}
+
+p{
+    color:#272727;
+    margin-bottom: 15px;
+    font-size: 12px;
+    font-family: 'Lato';
+    
+}
+.banner_main{
+    display:flex;
+    justify-content: space-around;
+    height: 50vh;
+    align-items: center;
+    background-color: rgba(229, 84, 115, 0.10);
+    
+}
+
+.btn_01{
+    border-radius: 5px;
+    background-color: #E55473;
+    padding: 15px 30px;
+    color: white;
+    border:none;
+
+}
