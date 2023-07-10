@@ -41,6 +41,7 @@ h3 {
     font-family:'Lato';
     font-size: 25px;
     padding-left: 85px;
+  
 }
 p{
     color:#272727;
@@ -111,7 +112,7 @@ a {
 }
  
  .photos{
-    width:1300px;
+    width:1200px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -120,7 +121,40 @@ a {
  }
 
  img{
-    height:300px;
-    width: 310px;
+    height:310px;
+    width: 290px;
     padding: 1055x;
  }
+
+ .subscribe{
+    /*background-color: green;*/
+    margin-top: 70px;
+    width:1200px;
+    background-image: url(../images/bg.png);
+    margin-left: 200px;
+    height: 300px;
+    background-repeat: no-repeat;
+ }
+.sub_text{
+    padding-top:100px;
+    font-weight: bolder;
+    margin-bottom: 15px;
+    font-family:'Lato';
+    font-size: 25px;
+    padding-left: 85px;
+    text-align:center;
+}
+
+.coupon{
+    text-align: center;
+    margin-left:70px;
+    margin-bottom:40px;
+}
+
+input{
+    padding:20px 250px;
+    border-radius:9px;
+    margin-left:270px;
+    margin-right:-110px;
+}
+
