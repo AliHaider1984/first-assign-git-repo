@@ -103,6 +103,7 @@ a {
 
 .hotdeal{
     padding-left: 0px;
+    
 }
 
  .featured{
@@ -127,7 +128,6 @@ a {
  }
 
  .subscribe{
-    /*background-color: green;*/
     margin-top: 70px;
     width:1200px;
     background-image: url(../images/bg.png);
@@ -158,3 +158,36 @@ input{
     margin-right:-110px;
 }
 
+.footer{
+    margin-top:90px;
+    height:350px;
+    width:100%;
+    background-color:#111010;
+}
+
+.shop{
+    padding-top: 100px;
+    margin-left:600px;
+    font-weight: bolder;
+
+    font-family:'Lato';
+    font-size: 35px;
+    padding-left: 85px;
+    color:white;
+ 
+}
+
+.shop2{
+    color:white;
+    margin-left:600px;
+}
+
+.flower{
+    color: #E55473;
+}
+
+.copy{
+    color:rgba(255, 255, 255, 0.40);
+    margin-left:630px;
+    margin-top: 30px;
+}
