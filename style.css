@@ -48,6 +48,7 @@ p{
     margin-bottom: 15px;
     font-size: 12px;
     font-family: 'Lato';
+    line-height:25px;
     
 }
 .banner_main{
@@ -91,6 +92,83 @@ a {
     background-color: rgba(229, 84, 115, 0.05);
    
 }
+
+.flower_caption{
+    display:flex;
+    justify-content: space-between;
+    width:1200px;
+    margin:auto;
+}
+
+.flower_caption1{
+    width:300px;
+    height:350px;
+    padding:70px;
+    border-radius: 580px 580px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    margin-bottom: 75px;
+    margin-right:50px;
+
+}
+
+.flower_caption2{
+    width:300px;
+    height:350px;
+    padding:70px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    margin-bottom: 75px;
+    margin-right:50px;
+
+}
+
+
+.flower_caption3{
+    width:300px;
+    height:350px;
+    padding:70px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    margin-bottom: 75px;
+    
+}
+
+.box1{
+    background-image: url('./pngwing\ 6.png');
+    background-repeat: no-repeat;
+    height:420px;
+    width:310px;
+    align-items: center;
+    
+}
+
+.box2{
+    background-image: url('./pngwing\ 5.png');
+    background-repeat: no-repeat;
+    height:420px;
+    width:310px;
+    align-items: center;
+    
+}
+
+
+.box3{
+    background-image: url('./pngwing\ 7.png');
+    background-repeat: no-repeat;
+    height:420px;
+    width:310px;
+    align-items: center;
+    
+}
+
+
+.capt{
+    line-height:75px;
+    text-decoration: underline;
+    text-align:center;
+    font-weight:bolder;
+}
+
 
 .off{
     color:#E55473;
@@ -136,7 +214,7 @@ a {
     background-repeat: no-repeat;
  }
 .sub_text{
-    padding-top:100px;
+    padding-top:40px;
     font-weight: bolder;
     margin-bottom: 15px;
     font-family:'Lato';
@@ -154,7 +232,7 @@ a {
 input{
     padding:20px 250px;
     border-radius:9px;
-    margin-left:270px;
+    margin-left:300px;
     margin-right:-110px;
 }
 
